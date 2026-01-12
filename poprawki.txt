@@ -1,0 +1,9 @@
+pygame midi
+
+
+klawisz przypisuje numer wierzcholka
+
+25 klawiszy \
+
+
+

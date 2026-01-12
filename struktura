@@ -1,0 +1,27 @@
+grafy_django/
+  docker-compose.yml
+  Dockerfile
+  requirements.txt
+  manage.py
+  grafy/
+    __init__.py
+    settings.py
+    urls.py
+    wsgi.py
+  core/
+    __init__.py
+    admin.py
+    apps.py
+    models.py
+    urls.py
+    views.py
+    services/
+      __init__.py
+      generator.py
+      hh.py
+      builders.py
+      graph6.py
+      nauty.py
+      runner.py
+  templates/
+    dashboard.html
